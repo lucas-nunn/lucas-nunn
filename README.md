@@ -1,8 +1,8 @@
-## Hey, I'm Lucas
+### Hey, I'm Lucas
 Here's some words that describe a bit about me:
 - 🧑‍🎓 Student
 - 🧑‍💻 Developer
-- 🌱 Vegan (vegeratian more accuracte)
+- 🌱 Vegan (vegetaratian more accuracte)
 - 🧘‍♂️ Mindfulness
 - 🛏️ Lounging
 - ⚽ Sports
